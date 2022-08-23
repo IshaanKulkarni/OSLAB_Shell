@@ -1,0 +1,8 @@
+Files added:
+1. addition.c subtraction.c and multiplication.c
+2. lab3cs20b018shell.c
+
+Files changes:
+1. init.c to make qemu run our shell
+2. Appropriate changes in the makefile to run our code.
+
